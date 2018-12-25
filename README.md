@@ -1,4 +1,5 @@
 # Custom-Dock
-Custom - Dock Files
-Simple and an interactive code to create a custom dock with your own icons.
-Customize your dock icons and its behaviour as well.
+Simple and interactive code for creating your own Custom Dock to your OS.
+
+Alter the code easily to add new functionalities and Dock Applications.
+
